@@ -6,6 +6,6 @@ This repository contains South African crime statistics for the period 2003 to
 provided by the SAPS. Also present is the Python script used to perform this
 reformatting.
 
-The source spreadsheet was downloaded from http://www.saps.gov.za/resource_centre/publications/statistics/crimestats/2013/downloads/police_station_figures_per_province.xls
+The source spreadsheet was downloaded from the SAPS website [at this link](http://www.saps.gov.za/resource_centre/publications/statistics/crimestats/2013/downloads/police_station_figures_per_province.xls).
 
 The script `reformat.py` is licensed under the MIT License.
